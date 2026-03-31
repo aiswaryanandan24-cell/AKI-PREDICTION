@@ -41,7 +41,7 @@ The goal is to enable early risk stratification using routinely collected clinic
 
 ---
 
-## 🛠 Methodology Pipeline
+## Methodology Pipeline
 
 ### 1️ Data Extraction
 
